@@ -1,6 +1,6 @@
 ---
 id: 121
-title: 'App der Woche: School Helper &#8211; Stundenplan für Studenten'
+title: 'App der Woche: School Helper - Stundenplan für Studenten'
 date: 2011-10-29T17:47:00+00:00
 author: Karl Lorey
 layout: post

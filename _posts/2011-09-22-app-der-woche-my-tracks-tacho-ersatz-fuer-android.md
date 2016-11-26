@@ -1,6 +1,6 @@
 ---
 id: 17
-title: 'App der Woche: My Tracks &#8211; der Tacho-Ersatz für Android'
+title: 'App der Woche: My Tracks - der Tacho-Ersatz für Android'
 date: 2011-09-22T13:52:45+00:00
 author: Karl Lorey
 layout: post

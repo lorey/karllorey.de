@@ -1,6 +1,6 @@
 ---
 id: 1687
-title: 'Bachelorarbeit, erstes Paper, Uni-Wechsel und Master &#8211; das letzte Jahr'
+title: 'Bachelorarbeit, erstes Paper, Uni-Wechsel und Master - das letzte Jahr'
 date: 2014-08-03T13:33:39+00:00
 author: Karl Lorey
 layout: post
@@ -24,9 +24,9 @@ tags:
 ---
 Im letzten Jahr ist viel passiert: Ich habe meine Bachelorarbeit geschrieben, mein erstes Paper veröffentlicht, mein Informatik-Studium an der Uni Würzburg abgeschlossen und anschließend begonnen meinen Informatik Master am KIT in Karlsruhe in Angriff zu nehmen. Meine Seite habe ich in dieser Zeit leider etwas vernachlässigt. Deshalb ist dies hauptsächlich ein Artikel über das, was im letzten Jahr passiert ist.
 
-## Bachelorarbeit an der Uni Würzburg<figure id="attachment_1745" style="width: 212px" class="wp-caption alignright">
+## Bachelorarbeit an der Uni Würzburg
 
-[<img class="size-medium wp-image-1745" src="http://www.karllorey.de/wp-content/uploads/2014/07/bachelorarbeit_gamification_framework_cover-212x300.png" alt="Cover der Bachelorarbeit" width="212" height="300" srcset="http://www.karllorey.de/wp-content/uploads/2014/07/bachelorarbeit_gamification_framework_cover-106x150.png 106w, http://www.karllorey.de/wp-content/uploads/2014/07/bachelorarbeit_gamification_framework_cover-212x300.png 212w, http://www.karllorey.de/wp-content/uploads/2014/07/bachelorarbeit_gamification_framework_cover-723x1024.png 723w, http://www.karllorey.de/wp-content/uploads/2014/07/bachelorarbeit_gamification_framework_cover.png 827w" sizes="(max-width: 212px) 100vw, 212px" />](http://www.karllorey.de/wp-content/uploads/2014/07/bachelorarbeit_gamification_framework_cover.png)<figcaption class="wp-caption-text">Cover der Bachelorarbeit &#8222;Gamification Framework for Subjective Assessment of Influence in Online Social Networks&#8220;</figcaption></figure> 
+<img class="size-medium wp-image-1745" src="http://www.karllorey.de/wp-content/uploads/2014/07/bachelorarbeit_gamification_framework_cover-212x300.png" alt="Cover der Bachelorarbeit" width="212" height="300" srcset="http://www.karllorey.de/wp-content/uploads/2014/07/bachelorarbeit_gamification_framework_cover-106x150.png 106w, http://www.karllorey.de/wp-content/uploads/2014/07/bachelorarbeit_gamification_framework_cover-212x300.png 212w, http://www.karllorey.de/wp-content/uploads/2014/07/bachelorarbeit_gamification_framework_cover-723x1024.png 723w, http://www.karllorey.de/wp-content/uploads/2014/07/bachelorarbeit_gamification_framework_cover.png 827w" sizes="(max-width: 212px) 100vw, 212px" />
 
 Die Grundidee meiner Bachelorarbeit war die konzeptionelle Erstellung und anschließende Implementierung einer App zur Messung von Einfluss in sozialen Netzwerken. Aus diesem Grundgedanken entwickelte sich mit der Zeit die Idee Einfluss mithilfe der Nutzer zu messen und das Ganze als Spiel mit Auswertung des eigenen Einflusses umzusetzen. Hierzu beantworten die Nutzer Fragen über ihre Freunde und können sich damit Informationen über ihren Einfluss freischalten.
   

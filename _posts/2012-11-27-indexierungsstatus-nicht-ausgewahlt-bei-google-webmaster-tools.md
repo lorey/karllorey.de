@@ -1,6 +1,6 @@
 ---
 id: 1387
-title: 'Indexierungsstatus: &#8222;Nicht ausgewählt&#8220; bei Google Webmaster-Tools'
+title: 'Indexierungsstatus: "Nicht ausgewählt" bei Google Webmaster-Tools'
 date: 2012-11-27T21:10:39+00:00
 author: Karl Lorey
 layout: post

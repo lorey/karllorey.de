@@ -19,9 +19,10 @@ tags:
 ---
 Zend Framework 2.3 bietet bisher leider keine Funktionalität an, um Pflicht-Felder eines Formulars (Zend\Form und Zend\Form\Element) automatisch mit einem Stern zu markieren. Dieser Artikel zeigt Möglichkeiten auf, wie benötigte Formular-Felder bzw. Form-Elemente mit einem beliebigen Zeichen (z.B. einem Stern) gekennzeichnet werden können. Prinzipiell ist hierbei beides Mal ein ViewHelper zu erstellen, der den gewünschten Effekt erzielt, indem er das Label um einen Stern ergänzt.
 
-Beispielsweise sei folgendes Formular-Element gegeben, welches mit `'required' => true` als Pflicht-Feld deklariert wurde und anschließend automatisch als benötigtes Feld gekennzeichnet werden soll.
+Beispielsweise sei folgendes Formular-Element gegeben, welches mit `required' => true` als Pflicht-Feld deklariert wurde und anschließend automatisch als benötigtes Feld gekennzeichnet werden soll.
 
-<pre class="brush: php; title: ; notranslate" title="">// Irgendwo in einem Controller
+<pre class="brush: php; title: ; notranslate" title="">
+// Irgendwo in einem Controller
 $form = new Zend\Form();
 
 // ... konfiguration, etc.

@@ -1,6 +1,6 @@
 ---
 id: 1594
-title: 'Java: Hello World &#8211; verblüffend statt einfach'
+title: 'Java: Hello World - verblüffend statt einfach'
 date: 2013-03-19T15:42:14+00:00
 author: Karl Lorey
 layout: post
@@ -27,9 +27,7 @@ einmal außergewöhnlichen Java-Code nutzen will, um in Java &#8222;hello world&
     + randomString(-147909649));
 </pre>
 
-<!--more-->Die 
-
-_randomString_-Methode sieht dabei folgendermaßen aus:
+Die `randomString`-Methode sieht dabei folgendermaßen aus:
 
 <pre class="brush: java; title: ; notranslate" title="">public static String randomString(int i)
 {
@@ -56,11 +54,11 @@ Doch wie funktioniert es, dass trotz der Nutzung von Zufallszahlen jedes Mal &#8
 
 ## Warum wird so &#8222;Hello World&#8220; ausgegeben?
 
-Mit den zwei Methodenaufrufen _randomString(-229985452)_ und _randomString(-147909649)_ wird jeweils als Parameter ein Integer-Wert _i_ zur Initialisierung der Random-Objekte übergeben. Was bewirkt eine Initialisierung von _Random_ mit einem Integer?
+Mit den zwei Methodenaufrufen `randomString(-229985452)` und `randomString(-147909649)` wird jeweils als Parameter ein Integer-Wert `i` zur Initialisierung der Random-Objekte übergeben. Was bewirkt eine Initialisierung von `Random` mit einem Integer?
 
 ### Zufallszahlen sind nicht zufällig
 
-Zur Ausgabe von &#8222;hello world&#8220; wird die Tatsache ausgenutzt, dass Zufallszahlen in Computern nie wirklich zufällig, sondern nur pseudozufällig sind. Pseudozufällig heißt, dass diese Zufallszahlen nicht wirklich zufällig entstehen, sondern von einem Algorithmus generiert (also berechnet) werden müssen. Dieser Algorithmus wird normalerweise (ohne Übergabe eines Integers bei new Random()) mit einem möglichst zufälligen Wert, dem Seed, initialisiert. Mit diesem Seed berechnet der Zufallszahlen-Generator dann jede Zahl. Bei einer Initialisierung mit dem gleichen Seed werden so also auch gleiche &#8222;Zufallszahlen&#8220; erzeugt. In der Praxis wird der Seed aus einer Kombination der Uhrzeit und einem Counter berechnet, so dass er relativ zufällig, schwer zu erraten und die Generierung von zwei gleichen Seeds sehr unwahrscheinlich ist.
+Zur Ausgabe von &#8222;hello world&#8220; wird die Tatsache ausgenutzt, dass Zufallszahlen in Computern nie wirklich zufällig, sondern nur pseudozufällig sind. Pseudozufällig heißt, dass diese Zufallszahlen nicht wirklich zufällig entstehen, sondern von einem Algorithmus generiert (also berechnet) werden müssen. Dieser Algorithmus wird normalerweise (ohne Übergabe eines Integers bei `new Random()`) mit einem möglichst zufälligen Wert, dem Seed, initialisiert. Mit diesem Seed berechnet der Zufallszahlen-Generator dann jede Zahl. Bei einer Initialisierung mit dem gleichen Seed werden so also auch gleiche &#8222;Zufallszahlen&#8220; erzeugt. In der Praxis wird der Seed aus einer Kombination der Uhrzeit und einem Counter berechnet, so dass er relativ zufällig, schwer zu erraten und die Generierung von zwei gleichen Seeds sehr unwahrscheinlich ist.
 
 In diesem Fall wird der Seed aber manuell übergeben und nicht möglichst zufällig berechnet. **Es wird die Eigenschaft genutzt, dass durch die Initalisierung von Random mit einer festen Zahl, in diesem Fall -229985452, immer die selben Zahlen generiert werden.** Bei einem Aufruf sind die Zahlen dann immer gleich:
 

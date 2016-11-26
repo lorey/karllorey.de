@@ -1,6 +1,6 @@
 ---
 id: 104
-title: 'App der Woche: Dropbox &#8211; Onlinespeicher und Synchronisation mit der Cloud'
+title: 'App der Woche: Dropbox - Onlinespeicher und Synchronisation mit der Cloud'
 date: 2011-11-15T17:07:35+00:00
 author: Karl Lorey
 layout: post

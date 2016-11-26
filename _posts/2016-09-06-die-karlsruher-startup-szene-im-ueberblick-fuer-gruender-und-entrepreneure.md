@@ -1,6 +1,6 @@
 ---
 id: 1913
-title: 'Die Karlsruher Gründerszene im Überblick &#8211; für Gründer, Startups und Entrepreneure'
+title: Die Karlsruher Gründerszene im Überblick - für Gründer, Startups und Entrepreneure
 date: 2016-09-06T13:10:27+00:00
 author: Karl Lorey
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 1498
-title: 'Google Webmaster Tools: Indexierungsstatus &#8222;Nicht ausgewählt&#8220; mit Update entfernt'
+title: 'Google Webmaster Tools: Indexierungsstatus "Nicht ausgewählt" mit Update entfernt'
 date: 2013-02-09T14:49:02+00:00
 author: Karl Lorey
 layout: post

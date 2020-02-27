@@ -1,0 +1,4 @@
+[Theme]
+parent = bootblog4-jinja
+engine = jinja
+

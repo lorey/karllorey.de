@@ -6,17 +6,12 @@ author: Karl Lorey
 layout: page
 guid: http://www.karllorey.de/?page_id=85
 ---
-# Impressum
 
 Angaben gemäß § 5 TMG:
 
-Karl Lorey
-  
-Sperrlohestr. 29
-  
+Karl Lorey<br>
+Sperrlohestr. 29<br>
 97996 Niederstetten
-
-## Kontakt:
 
 <div role="form" class="wpcf7" id="wpcf7-f88-o1" dir="ltr">
   <div class="screen-reader-response">

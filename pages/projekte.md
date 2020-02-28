@@ -6,7 +6,9 @@ author: Karl Lorey
 layout: page
 guid: http://www.karllorey.de/?page_id=832
 ---
-Achtung: Diese Liste ist wahrscheinlich nicht mehr aktuell, da ich auf [eine internationale Domain gewechselt](http://www.karllorey.de/2016/01/25/internationale-webseite-von-karl-lorey/) habe. Die aktuellen Projekte finden sich im <a href="http://karllorey.com/portfolio" target="_blank">Portfolio auf karllorey.com</a>.
+<div class="alert alert-warning">
+Achtung: Diese Liste ist nicht mehr aktuell. Die aktuellen Projekte finden sich im <a href="http://karllorey.com/portfolio" target="_blank">Portfolio auf karllorey.com</a>.
+</div>
 
 Neben dem Informatikstudium arbeite ich auch noch an eigenen Projekten. Für Interessierte findet sich hier eine kleine Übersicht aktueller und vergangener Projekte.
 

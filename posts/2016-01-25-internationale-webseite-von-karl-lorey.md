@@ -6,7 +6,7 @@ author: Karl Lorey
 layout: post
 guid: http://www.karllorey.de/?p=1903
 permalink: /2016/01/25/internationale-webseite-von-karl-lorey/
-image: /wp-content/uploads/2016/01/karl_lorey_com_dark.jpg
+previewimage: /wp-content/uploads/2016/01/karl_lorey_com_dark.jpg
 categories:
   - Allgemein
 tags:

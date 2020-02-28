@@ -6,7 +6,7 @@ author: Karl Lorey
 layout: post
 guid: http://www.karllorey.de/?p=1913
 permalink: /2016/09/06/die-karlsruher-startup-szene-im-ueberblick-fuer-gruender-und-entrepreneure/
-image: /wp-content/uploads/2016/09/startup-karlsruhe-startup-scene-overview.jpg
+previewimage: /wp-content/uploads/2016/09/startup-karlsruhe-startup-scene-overview.jpg
 categories:
   - Allgemein
 tags:
@@ -32,22 +32,16 @@ Die Seite soll einen Überblick darüber geben, was sich gerade im Hinblick auf 
 Die Veranstaltungen und Events für Karlsruher Gründer sind genauso zahlreich wie die Startups selbst. Hier ein kleiner Überblick:
 
   * **Gründergrillen**
-  
     Vor dem CIE trifft treffen sich Gründer und Startups in entspannter Atmospähre, um gemeinsam zu Grillen und sich auszutauschen.
   * **Meetups**
-  
     Diverse Meetups, vor allem zu technischen Themen, ermöglichen Gründern den Austausch mit Gleichgesinnten oder helfen dabei Techies für die eigene Idee zu begeistern.
   * **Boostcamp**
-  
     Einen Tag lang wird intensiv mithilfe von Mentoren aus der Karlsruher Startup-Szene an der eigenen Idee gearbeitet.
   * **Venture Fest**
-  
     Einmal im Jahr zeigt das KIT, was es an Innovation zu bieten hat. Es gibt Startup-Wettbewerbe, Vorträge und Workshops.
   * **Hackathons**
-  
     Idee im Kopf und Lust den ersten Prototyp zu bauen? Hackathons finden immer wieder statt und ziehen Programmierer aus der ganzen Region an.
   * **GROW**
-  
     Die PionierGarage veranstaltet jährlich den Gründungswettbewerb GROW. Hier wird in zehn Wochen die Idee in die Tat umgesetzt &#8211; wieder mithilfe erfahrener Mentoren wie Holger Kujath, dem <a href="http://knuddels.de" target="_blank">Knuddels</a>-Gründer
 
 Auf der Seite findet man eine vollständige Übersicht über <a href="http://startup-karlsruhe.de/events.html" target="_blank">Startup-Veranstaltungen und Events in Karlsruhe</a>.

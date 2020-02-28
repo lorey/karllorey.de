@@ -6,7 +6,7 @@ author: Karl Lorey
 layout: post
 guid: http://www.karllorey.de/?p=1317
 permalink: /2012/10/23/hardwarepraktikum-robotik-weiterhin-mangel-und-nachbesserungsbedarf/
-image: /wp-content/uploads/2012/04/hardwarepraktikum_robotik_roboter-1000x288.png
+previewimage: /wp-content/uploads/2012/04/hardwarepraktikum_robotik_roboter-1000x288.png
 categories:
   - Informatik-Studium
 tags:

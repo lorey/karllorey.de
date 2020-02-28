@@ -6,7 +6,7 @@ author: Karl Lorey
 layout: post
 guid: http://www.karllorey.de/?p=797
 permalink: /2012/04/11/erlebnisbericht-hardwarepraktikum-robotik/
-image: /wp-content/uploads/2012/04/hardwarepraktikum_robotik_roboter-1000x288.png
+previewimage: /wp-content/uploads/2012/04/hardwarepraktikum_robotik_roboter-1000x288.png
 categories:
   - Informatik-Studium
 tags:
